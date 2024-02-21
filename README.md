@@ -1,25 +1,22 @@
-# SQL-Projects
 Project Overview:
 
-This repository houses two distinct projects focusing on data analysis using SQL queries followed by visualization using Power BI. The projects revolve around exploring datasets structured according to the classic model of MySQL and the Maven Movies dataset. Through SQL analysis and Power BI visualization, these projects aim to derive insights and present them in an intuitive manner.
+This repository contains two projects focused on data analysis using SQL queries on datasets structured according to the classic model of MySQL databases. The projects include SQL analysis on the MySQL Classic Model dataset and SQL analysis on the Maven Movies dataset. Each project employs SQL queries to extract insights and perform various analytical tasks on the respective datasets.
 
 Project 1: MySQL Classic Model Dataset Analysis
 
-In this project, SQL queries are employed to analyze a dataset structured according to the classic model of the MySQL database. The analysis encompasses various SQL operations such as extraction, filtering, aggregation, and joining to derive meaningful insights from relational data.
+The MySQL Classic Model dataset analysis project involves utilizing SQL queries to analyze a dataset structured according to the classic model of the MySQL database. The project emphasizes extracting meaningful insights from relational data using SQL operations.
 
 Key Highlights:
 
-Utilization of SQL queries for data manipulation and analysis.
-Aggregation functions for summarizing information across different dimensions.
-Joins and subqueries to integrate data from multiple tables.
-Detailed documentation of SQL scripts and analysis findings.
-Project 2: Maven Movies Dataset Visualization with Power BI
+SQL queries to extract, filter, and manipulate data.
+Aggregation functions for summarizing information.
+Joins and subqueries to combine data from multiple tables.
+Project 2: Maven Movies Dataset SQL Analysis
 
-The Maven Movies dataset visualization project focuses on creating dynamic and interactive dashboards using Power BI. The dataset contains information about movies, and Power BI is leveraged to visualize various aspects of this data, enabling stakeholders to gain actionable insights effortlessly.
+The Maven Movies dataset SQL analysis project focuses on leveraging SQL queries to analyze a dataset containing information about movies. Various SQL operations are employed to extract insights, perform calculations, and generate reports on the dataset.
 
 Key Highlights:
 
-Creation of visually appealing dashboards using Power BI.
-Implementation of interactive visualizations such as charts, graphs, and maps.
-Integration of multiple data sources for comprehensive analysis.
-In-depth documentation of visualization design choices and insights derived.
+Utilizing SQL queries for data analysis and manipulation.
+Performing calculations and aggregations to derive insights.
+Generating reports and summaries based on SQL analysis
